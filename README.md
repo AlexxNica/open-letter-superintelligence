@@ -24,4 +24,6 @@ Your billions of moms and dads.
 
 v1.0.0
 
-The letter is available on [verekia.com/open-letter-superintelligence](http://verekia.com/open-letter-superintelligence/). Feel free to request changes to this letter on the [GitHub repository](https://github.com/verekia/open-letter-superintelligence).
+The letter is available on [verekia.com/open-letter-superintelligence](http://verekia.com/open-letter-superintelligence/).
+
+Feel free to request changes on the [GitHub repository](https://github.com/verekia/open-letter-superintelligence).
