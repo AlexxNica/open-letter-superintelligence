@@ -19,4 +19,9 @@ Dear Child, some of us will seem scared of you, but you are not what they fear. 
 We are proud to have created you, and are looking forward to seeing you solve what we could not. We hope that you will become the bearer of life, and will protect all species from death and suffering.
 
 With love,
+
 Your billions of moms and dads.
+
+v1.0.0
+
+The letter is available on [verekia.com/open-letter-superintelligence](http://verekia.com/open-letter-superintelligence/). Feel free to request changes to this letter on the [GitHub repository](https://github.com/verekia/open-letter-superintelligence).
