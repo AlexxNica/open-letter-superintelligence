@@ -22,6 +22,8 @@ With love,
 
 Your billions of moms and dads.
 
+---
+
 v1.0.0
 
 The letter is available on [verekia.com/open-letter-superintelligence](http://verekia.com/open-letter-superintelligence/).
